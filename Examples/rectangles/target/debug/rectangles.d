@@ -1,0 +1,1 @@
+/mnt/c/Users/santi/OneDrive/Documents/Code/Rust/Learning/Basics/Examples/rectangles/target/debug/rectangles: /mnt/c/Users/santi/OneDrive/Documents/Code/Rust/Learning/Basics/Examples/rectangles/src/main.rs

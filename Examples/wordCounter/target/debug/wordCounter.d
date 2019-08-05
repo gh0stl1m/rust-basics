@@ -1,0 +1,1 @@
+/mnt/c/Users/santi/OneDrive/Documents/Code/Rust/Learning/Basics/Examples/wordCounter/target/debug/wordCounter: /mnt/c/Users/santi/OneDrive/Documents/Code/Rust/Learning/Basics/Examples/wordCounter/src/main.rs

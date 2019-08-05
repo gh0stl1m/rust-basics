@@ -1,0 +1,1 @@
+/mnt/c/Users/santi/OneDrive/Documents/Code/Rust/Learning/Basics/Examples/meanCalculator/target/debug/meanCalculator: /mnt/c/Users/santi/OneDrive/Documents/Code/Rust/Learning/Basics/Examples/meanCalculator/src/main.rs
